@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="currency_prompt">Choose a currency</string>
+
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>RMB</item>
+        <item>Euro</item>
+
+    </string-array>
+</resources>
